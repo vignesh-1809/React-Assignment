@@ -26,7 +26,7 @@ src/
 - ⚛️ Built using **React** and **Vite**
 - 🎨 Clean and modern responsive UI
 - 🧩 Modular and reusable components
-- 💨 Styled using **Tailwind CSS** (if used)
+- 💨 Styled using **Tailwind CSS** 
 - ⚙️ Deployed using **Vercel**
 
 ---
