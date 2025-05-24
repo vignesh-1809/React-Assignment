@@ -36,7 +36,7 @@ src/
 - React
 - Vite
 - JavaScript (ES6+)
-- Tailwind CSS (if used)
+- Tailwind CSS 
 - HTML5 / CSS3
 - Vercel (for deployment)
 
