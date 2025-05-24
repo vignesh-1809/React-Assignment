@@ -92,10 +92,6 @@ If you'd like to contribute:
 
 ---
 
-## 📜 License
-
-This project is intended for educational and demonstration purposes only.  
-No commercial license is granted.
 
 ---
 
